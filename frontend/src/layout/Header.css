@@ -1,0 +1,29 @@
+/* Header.css */
+header {
+  background-color: #f7f7f9;
+  padding: 20px 0;
+}
+
+header h4 {
+  font-weight: bold;
+}
+
+header button {
+  border-radius: 20px; /* Matches the rounded button style */
+}
+
+header .form-control {
+  border-radius: 20px 0 0 20px; /* Rounded search bar */
+}
+
+header .btn-outline-secondary {
+  border-radius: 0 20px 20px 0; /* Rounded search button */
+}
+
+header .dropdown-toggle {
+  border-radius: 20px;
+}
+
+header .mr-2 {
+  margin-right: 10px;
+}

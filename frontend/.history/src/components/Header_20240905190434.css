@@ -1,0 +1,20 @@
+header {
+    background-color: #f7f7f9;
+  }
+  
+  header h4 {
+    font-weight: bold;
+  }
+  
+  header button {
+    border-radius: 20px; /* To match the button style in the image */
+  }
+  
+  header .form-control {
+    border-radius: 20px 0 0 20px; /* Rounded search bar */
+  }
+  
+  header .btn-outline-secondary {
+    border-radius: 0 20px 20px 0; /* Rounded search button */
+  }
+  
